@@ -34,7 +34,7 @@ python Runner.py
 
 ## 📁 Repository Structure
 
-*   `UAI-2026.ipynb`: Complete preprocessing pipeline for ETDataset.
+*   `Electricity Transformer Dataset (ETDataset) Data preprocessing UAI-2026.ipynb`: Complete preprocessing pipeline for ETDataset.
 *   `helpers/Runner.py`: Main entry point for training and evaluation.
 *   `models/GTACM.py`: Core architecture including the `gtacm` and frequency gating modules.
 
